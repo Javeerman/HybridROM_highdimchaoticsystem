@@ -8,7 +8,7 @@ The folders "Kolmogorov flow, Re = 20" and "Kolmogorov flow, Re = 34" provide th
 The knowledge-based model was obtained from 
 M. Lesjak and N. A. K. Doan. Chaotic systems learning with hybrid echo state network/ proper orthogonal decomposition based model. Data-Centric Engineering, 2:e16, 2021.
 
-The code for the multi-scale autoencoder was obtained from
+The codes for the multi-scale autoencoder and the Bayesian optimisation was obtained from
 A. Racca, N. A. K. Doan, and L. Magri. Modelling spatiotemporal turbulent dynamics with the convolutional autoencoder echo state network. arXiv preprint arXiv:2211.11379, 2022.
 
 The deep learning model was constructed through the codes of 
@@ -16,4 +16,6 @@ M. Lesjak. Prediction of Chaotic Systems with Physics - Enhanced Machine Learnin
 and 
 A. Racca, N. A. K. Doan, and L. Magri. Modelling spatiotemporal turbulent dynamics with the convolutional autoencoder echo state network. arXiv preprint arXiv:2211.11379, 2022.
 
-Finally, the hybrid model code of M. Lesjak. Prediction of Chaotic Systems with Physics - Enhanced Machine Learning Models (Master thesis). 2020. provided the basis for the proposed hybrid model.
+The hybrid model code of M. Lesjak. Prediction of Chaotic Systems with Physics - Enhanced Machine Learning Models (Master thesis). 2020. provided the basis for the proposed hybrid model.
+
+Finally, the recycle validation method was based on A. Racca and L. Magri. Robust optimization and validation of echo state networks for learning chaotic dynamics. Neural Networks, 142:252–268, 2021
